@@ -3,5 +3,5 @@ Linear Algebra in Python
 
 
 ## Python Notebook
-[Vector](https://www.kaggle.com/peterhskang/vector-with-python)
-[Matrix](https://www.kaggle.com/peterhskang/matrix-with-python)
+- [Vector](https://www.kaggle.com/peterhskang/vector-with-python)
+- [Matrix](https://www.kaggle.com/peterhskang/matrix-with-python)
